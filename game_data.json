@@ -1,0 +1,34 @@
+{
+    "field_wind": "Feng_E",
+    "Total_tiles": 17,
+    "Banker": null,
+    "Step": null,
+    "dora": [],
+    "players": {
+        "1": {
+            "Wind": [],
+            "Riichi": [],
+            "hand": [],
+            "discarded": [],
+            "melds": []
+        },
+        "2": {
+            "Wind": [],
+            "Riichi": [],
+            "discarded": [],
+            "melds": []
+        },
+        "3": {
+            "Wind": [],
+            "Riichi": [],
+            "discarded": [],
+            "melds": []
+        },
+        "4": {
+            "Wind": [],
+            "Riichi": [],
+            "discarded": [],
+            "melds": []
+        }
+    }
+}
